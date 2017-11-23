@@ -1,0 +1,20 @@
+{
+  "name": "ms.mission.mars",
+  "version": "1.0.0",
+  "description": "Microsoft Mission Mars Chat Bot ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnny Ferreira <johnnymaikeo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "dependencies": {
+    "botbuilder": "^3.12.0",
+    "dotenv": "^4.0.0",
+    "restify": "^4.3.2"
+  }
+}
